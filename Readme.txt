@@ -1,5 +1,6 @@
 
 Documentation for the CMUgraphics package is found in Manual.txt.
+..................................................................
 
 Release notes for Version 1.2 of the package
 --------------------------------------------
